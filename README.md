@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Venkata Surendra
 
-<!--
-**surendravm05/surendravm05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst passionate about transforming raw data into meaningful business insights through analysis and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+*Programming & Querying*
+- Python
+- SQL
+
+*Data Analysis*
+- Pandas
+- NumPy
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+
+*Data Visualization*
+- Matplotlib
+- Seaborn
+- Plotly
+
+*BI & Analytics Tools*
+- Power BI
+- Tableau
+- SAP Analytics Cloud
+- Excel
+
+*Machine Learning*
+- Scikit-learn
+
+## 📂 Projects
+
+- 
+
+## 🎯 Currently Learning
+
+- Advanced SQL
+- Python for Data Analytics
+- Machine Learning
+- Business Intelligence
+
+## 📫 Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/surendramedepalli)
+- GitHub: [surendravm05](YOUR-GITHUB-PROFILE-URL)
