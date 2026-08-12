@@ -1,5 +1,5 @@
 
-# Hi 👋 I'm Venkata Surendra
+# Hi 👋 I'm Surendra Medepalli
 
 ### 📊 Aspiring Data Analyst
 
